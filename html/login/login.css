@@ -1,0 +1,23 @@
+#login-form input {
+    margin: auto;
+    width: 30%;
+    margin-bottom: 10px;
+    padding: 8px;
+    display: block;
+}
+
+#login-form button {
+    margin: auto;
+    width: 30%;
+    padding: 10px;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    display: block;
+}
+
+.logform {
+    display: block;
+    width: 40%;
+}
